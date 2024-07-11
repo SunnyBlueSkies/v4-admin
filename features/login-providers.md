@@ -26,7 +26,6 @@ Table below contains all the supported providers and the handle used for it.
 | Medium        | medium        |
 | Odnoklassniki | odnoklassniki |
 | ORCID         | orcid         |
-| Reddit        | reddit        |
 | Spotify       | spotify       |
 | Steam         | steam         |
 | Strava        | strava        |
@@ -35,7 +34,6 @@ Table below contains all the supported providers and the handle used for it.
 | Twitch        | twitchtv      |
 | WeChat        | wechat        |
 | WordPress     | wordpress     |
-| Yandex        | yandex        |
 | Yahoo         | yahoo         |
 | QQ            | qq            |
 
